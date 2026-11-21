@@ -1,0 +1,9 @@
+[
+  {
+    "from_round": 1,
+    "max_tie_gap": 1.5,
+    "min_valid_ratings": 2,
+    "min_common_anchors": 2,
+    "review_deadline": "2026-08-19T16:00:00+08:00"
+  }
+]

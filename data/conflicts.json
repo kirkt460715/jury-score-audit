@@ -1,0 +1,37 @@
+[
+  {
+    "notice": "D1",
+    "judge": "JB",
+    "scope": "mentor",
+    "instead_of": "P-T1",
+    "listed_on": "2026-08-15T09:00:00+08:00"
+  },
+  {
+    "notice": "D2",
+    "judge": "JB",
+    "scope": "mentor",
+    "instead_of": "P-T3",
+    "listed_on": "2026-08-15T09:00:00+08:00"
+  },
+  {
+    "notice": "D3",
+    "judge": "JB",
+    "scope": "work",
+    "instead_of": "P08",
+    "listed_on": "2026-08-15T09:00:00+08:00"
+  },
+  {
+    "notice": "D4",
+    "judge": "J7",
+    "scope": "work",
+    "instead_of": "S03",
+    "listed_on": "2026-08-16T09:00:00+08:00"
+  },
+  {
+    "notice": "D5",
+    "judge": "J8",
+    "scope": "mentor",
+    "instead_of": "S-T2",
+    "listed_on": "2026-08-16T09:00:00+08:00"
+  }
+]

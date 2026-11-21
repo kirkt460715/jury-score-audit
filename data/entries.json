@@ -1,0 +1,146 @@
+[
+  {
+    "work": "P01",
+    "group": "P",
+    "discipline": "实物",
+    "mentor": "P-T0"
+  },
+  {
+    "work": "P02",
+    "group": "P",
+    "discipline": "数字",
+    "mentor": "P-T1"
+  },
+  {
+    "work": "P03",
+    "group": "P",
+    "discipline": "平面",
+    "mentor": "P-T1"
+  },
+  {
+    "work": "P04",
+    "group": "P",
+    "discipline": "实物",
+    "mentor": "P-T2"
+  },
+  {
+    "work": "P05",
+    "group": "P",
+    "discipline": "数字",
+    "mentor": "P-T2"
+  },
+  {
+    "work": "P06",
+    "group": "P",
+    "discipline": "平面",
+    "mentor": "P-T3"
+  },
+  {
+    "work": "P07",
+    "group": "P",
+    "discipline": "实物",
+    "mentor": "P-T3"
+  },
+  {
+    "work": "P08",
+    "group": "P",
+    "discipline": "数字",
+    "mentor": "P-T4"
+  },
+  {
+    "work": "P09",
+    "group": "P",
+    "discipline": "平面",
+    "mentor": "P-T4"
+  },
+  {
+    "work": "P10",
+    "group": "P",
+    "discipline": "实物",
+    "mentor": "P-T5"
+  },
+  {
+    "work": "P11",
+    "group": "P",
+    "discipline": "数字",
+    "mentor": "P-T5"
+  },
+  {
+    "work": "P12",
+    "group": "P",
+    "discipline": "平面",
+    "mentor": "P-T6"
+  },
+  {
+    "work": "S01",
+    "group": "S",
+    "discipline": "实物",
+    "mentor": "S-T0"
+  },
+  {
+    "work": "S02",
+    "group": "S",
+    "discipline": "数字",
+    "mentor": "S-T1"
+  },
+  {
+    "work": "S03",
+    "group": "S",
+    "discipline": "平面",
+    "mentor": "S-T1"
+  },
+  {
+    "work": "S04",
+    "group": "S",
+    "discipline": "实物",
+    "mentor": "S-T2"
+  },
+  {
+    "work": "S05",
+    "group": "S",
+    "discipline": "数字",
+    "mentor": "S-T2"
+  },
+  {
+    "work": "S06",
+    "group": "S",
+    "discipline": "平面",
+    "mentor": "S-T3"
+  },
+  {
+    "work": "S07",
+    "group": "S",
+    "discipline": "实物",
+    "mentor": "S-T3"
+  },
+  {
+    "work": "S08",
+    "group": "S",
+    "discipline": "数字",
+    "mentor": "S-T4"
+  },
+  {
+    "work": "S09",
+    "group": "S",
+    "discipline": "平面",
+    "mentor": "S-T4"
+  },
+  {
+    "work": "S10",
+    "group": "S",
+    "discipline": "实物",
+    "mentor": "S-T5"
+  },
+  {
+    "work": "S11",
+    "group": "S",
+    "discipline": "数字",
+    "mentor": "S-T5"
+  },
+  {
+    "work": "S12",
+    "group": "S",
+    "discipline": "平面",
+    "mentor": "S-T6"
+  }
+]
